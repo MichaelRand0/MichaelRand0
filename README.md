@@ -10,7 +10,7 @@
 <br />I've been studying web development since I was 16.
 </p>
 <p>
-  At this moment I already worked in several Russian companies. 
+  At this moment I already worked in several Russian companies.<br />
   Now I'm improving my development skills and learning new technologies!
 </p>
 <div align="center">
