@@ -5,11 +5,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend-developer" alt="Typing SVG" />
   </a>
 </p>
+<h2>About me:</h2>
+<p>I am a 20-year-old Frontend Developer from Russia <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/321/321257.png" />.
+<br />I've been studying web development since I was 16.
+</p>
+<p>
+  At this moment I already worked in several Russian companies. 
+  Now I'm improving my development skills and learning new technologies!
+</p>
 <div align="center">
   <h2>The technologies I use:</h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
