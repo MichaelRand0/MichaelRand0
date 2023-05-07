@@ -24,8 +24,14 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
-<br />
-<h2 align="center">My statistic:</h2>
+<br/ >
+<h2 align="center">My Codewars statistic:</h2>
+<p align="center">
+  <a href="LINK TO: WHEN CLICKED">
+    <img src="https://github.r2v.ch/codewars?user=MichaelRand0&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
+  </a>
+</p>
+<h2 align="center">My GitHub statistic:</h2>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelRand0&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelRand0&theme=github_dark" />
