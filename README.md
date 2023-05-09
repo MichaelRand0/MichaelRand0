@@ -38,6 +38,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelRand0&theme=github_dark&utcOffset=+3" />
 </p>
 
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
 <!--
 **MichaelRand0/MichaelRand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
