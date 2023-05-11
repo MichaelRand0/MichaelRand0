@@ -6,7 +6,7 @@
   </a>
 </p>
 <h2>About me:</h2>
-<p>I am a 20-year-old Frontend Developer from Russia <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/321/321257.png" />.
+<p>I am a 20-year-old Frontend Developer from Russia <img width="20" height="20" src="https://avatars.mds.yandex.net/get-images-cbir/1878478/MXg7GjClQk4z4astJOaVbw2877/ocr" />.
 <br />I've been studying web development since I was 16.
 </p>
 <p>
